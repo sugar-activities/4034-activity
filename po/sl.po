@@ -1,0 +1,212 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-01 11:54-0400\n"
+"PO-Revision-Date: 2009-01-28 16:59-0500\n"
+"Last-Translator: Denis Oštir <denis.ostir@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0rc2\n"
+
+#: activity/activity.info:2 moon.py:72
+msgid "Moon"
+msgstr "Luna"
+
+#: moon.py:86
+msgid "Toggle Grid View"
+msgstr "Preklopi na mrežni pogled"
+
+#: moon.py:91
+msgid "Toggle Hemisphere View"
+msgstr "Preklopi na pogled poloble"
+
+#: moon.py:96
+msgid "View"
+msgstr "Pogled"
+
+#: moon.py:218
+msgid ""
+"Today's Moon Information\n"
+"\n"
+msgstr ""
+"Današnji podatki o Luni\n"
+"\n"
+
+#: moon.py:219
+#, python-format
+msgid ""
+"Phase:\n"
+"%s\n"
+"\n"
+msgstr ""
+"Lunina mena:\n"
+"%s\n"
+"\n"
+
+#: moon.py:220
+#, python-format
+msgid ""
+"Julian Date:\n"
+"%.2f (astronomical)\n"
+"\n"
+msgstr ""
+"Datum po julijanskem koledarju:\n"
+"%.2f (astronomsko)\n"
+"\n"
+
+#: moon.py:221
+#, python-format
+msgid ""
+"Age:\n"
+"%(days).0f days, %(hours).0f hours, %(minutes).0f minutes\n"
+"\n"
+msgstr ""
+"Starost:\n"
+"%(dni).0f dni, %(ur).0f ur, %(minut).0f minut\n"
+"\n"
+
+#: moon.py:222
+#, python-format
+msgid ""
+"Lunation:\n"
+"%(phase).2f%% through lunation %(lunation)d\n"
+"\n"
+msgstr ""
+"Lunina mena:\n"
+"%(lunina mena).2f%% so lunine mene %(lunina mena)d\n"
+"\n"
+
+#: moon.py:223
+#, python-format
+msgid ""
+"Surface Visibility:\n"
+"%.0f%% (estimated)\n"
+"\n"
+msgstr ""
+"Vidnost površja:\n"
+"%.0f%% (ocenjenih)\n"
+"\n"
+
+#: moon.py:224
+#, python-format
+msgid ""
+"Selenographic Terminator Longitude:\n"
+"%(deg).1f°%(westOrEast)s (%(riseOrSet)s)\n"
+"\n"
+msgstr ""
+
+#: moon.py:225
+#, python-format
+msgid ""
+"Next Full Moon:\n"
+"%(date)s in %(days).0f days\n"
+"\n"
+msgstr ""
+"naslednja polna luna:\n"
+"%(datum)s čez %(dni).0f dni\n"
+"\n"
+
+#: moon.py:226
+#, python-format
+msgid ""
+"Next New Moon:\n"
+"%(date)s in %(days).0f days\n"
+"\n"
+msgstr ""
+"Naslednji prvi krajec:\n"
+"%(datum)s čez %(dni).0f dni\n"
+"\n"
+
+#: moon.py:227
+#, python-format
+msgid ""
+"Next Lunar eclipse:\n"
+"%(date)s in %(days).0f days\n"
+"\n"
+msgstr ""
+"Naslednji lunin mrk:\n"
+"%(datum)s čez %(dni).0f dni\n"
+"\n"
+
+#: moon.py:228
+#, python-format
+msgid ""
+"Next Solar eclipse:\n"
+"%(date)s in %(days).0f days\n"
+"\n"
+msgstr ""
+"Naslednji sončni mrk:\n"
+"%(date)s čez %(dni).Of dni\n"
+"\n"
+
+#: moon.py:310
+msgid "SNWE"
+msgstr "JSZV"
+
+#: moon.py:313
+msgid "NSEW"
+msgstr "SJVZ"
+
+#: moon.py:366
+msgid "Latitude"
+msgstr "Zemljepisna širina"
+
+#: moon.py:368
+msgid "Longitude"
+msgstr "Zemljepisna dolžina"
+
+#: moon.py:465
+msgid "west"
+msgstr "zahod"
+
+#: moon.py:467
+msgid "east"
+msgstr "vzhod"
+
+#: moon.py:470
+msgid "Sunset"
+msgstr "Sončni zahod"
+
+#: moon.py:472
+msgid "Sunrise"
+msgstr "Sončni vzhod"
+
+#: moon.py:486 moon.py:502
+msgid "New Moon"
+msgstr "Prvi krajec"
+
+#: moon.py:488
+msgid "Waxing Crescent"
+msgstr "Prvi srp"
+
+#: moon.py:490
+msgid "First Quarter"
+msgstr "Prva četrtina"
+
+#: moon.py:492
+msgid "Waxing Gibbous"
+msgstr ""
+
+#: moon.py:494
+msgid "Full Moon"
+msgstr "Polna luna"
+
+#: moon.py:496
+msgid "Waning Gibbous"
+msgstr ""
+
+#: moon.py:498
+msgid "Last Quarter"
+msgstr "Zadnja četrtina"
+
+#: moon.py:500
+#, fuzzy
+msgid "Waning Crescent"
+msgstr "Prvi srp"
